@@ -10,13 +10,10 @@ import step7.No10809
 import step7.No1157
 import step7.No11654
 import step7.No2908
-import step8.No10250
-import step8.No1193
-import step8.No1712
-import step8.No2839
+import step8.*
 import java.util.Scanner
 
 fun main(){
-    val problem = No2839()
+    val problem = No10757()
     problem.main()
 }
