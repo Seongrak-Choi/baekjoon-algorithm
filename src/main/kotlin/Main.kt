@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import step2.No1330_num_compare
 import step2.No2753_LeapYear
 import step2.No2884_alarmWatch
@@ -15,5 +16,11 @@ import java.util.Scanner
 
 fun main(){
     val problem = No10757()
+=======
+import step8.*
+
+fun main(){
+    val problem = No2869()
+>>>>>>> 1efc5e406e0f03d28b1ea14d558cc29afebf1c6e
     problem.main()
 }
