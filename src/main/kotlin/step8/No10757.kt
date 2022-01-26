@@ -10,7 +10,7 @@ class No10757{
         var count = 0
         var up = 0
         val resultArr = ArrayList<String>()
-
+        var i : Int = 1-1
         if (numList[0].length>=numList[1].length){
             big=numList[0]
             small=numList[1]
